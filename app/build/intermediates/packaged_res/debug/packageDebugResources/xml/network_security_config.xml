@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">contigobackend-production.up.railway.app</domain>
+        <domain includeSubdomains="true">10.95.132.239</domain>
+        <domain includeSubdomains="true">172.16.90.55</domain>
+        <domain includeSubdomains="true">10.125.91.80</domain>
+        <domain includeSubdomains="true">10.125.91.252</domain>
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <domain includeSubdomains="true">localhost</domain>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.proyectotesismovil.app-mergeDebugResources-69:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\migue\\.gradle\\caches\\9.4.1\\transforms\\bd4c4c1b5695f3ff39b6166543b9c3b1\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

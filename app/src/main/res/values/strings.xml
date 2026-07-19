@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contigo</string>
+    <string name="accessibility_service_description">Mide la velocidad de escritura para el monitoreo de bienestar conductual.</string>
+</resources>

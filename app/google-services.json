@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185516941709",
+    "project_id": "acompaniame-37547",
+    "storage_bucket": "acompaniame-37547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185516941709:android:f4c91bb8f44acb87131dc4",
+        "android_client_info": {
+          "package_name": "com.example.proyectotesismovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSqsPKHKISfeLVlqyaRQUPcqnj0dJeW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
